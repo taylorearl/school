@@ -1,0 +1,9 @@
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/bin/Debug/assignment3.exe.config
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/bin/Debug/assignment3.exe
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/bin/Debug/assignment3.pdb
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/obj/Debug/assignment3.Form1.resources
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/obj/Debug/assignment3.Properties.Resources.resources
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/obj/Debug/assignment3.csproj.GenerateResource.Cache
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/obj/Debug/assignment3.csproj.CoreCompileInputs.cache
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/obj/Debug/assignment3.exe
+/Users/taylor/Desktop/fall2017/cs3280/assignment3Clean/assignment3/assignment3/obj/Debug/assignment3.pdb

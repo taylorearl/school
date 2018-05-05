@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CS3270A2Earl</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentA">Fragment A</string>
+    <string name="fragmentB">Fragment B</string>
+    <string name="fragmentC">Fragment C</string>
+    <string name="fragmentD">Fragment D</string>
+</resources>
